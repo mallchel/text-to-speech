@@ -1,6 +1,5 @@
 from ebooklib import epub
 from bs4 import BeautifulSoup
-# import codecs
 
 
 def extract_text_from_epub(file_path):
