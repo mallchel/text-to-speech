@@ -1,3 +1,6 @@
+# Text to speech (book to audiobook)
+More details here https://dev.to/mallchel/text-to-speech-books-to-audio-ij8
+
 ### Requirements
 - python 3
 
